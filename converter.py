@@ -15,15 +15,14 @@ def convert_list(input_filepath, output_filepath):
             target_file.write(final_line)
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
+    if len(sys.argv) != 2:
         print("Usage: python converter.py <input_file>")
         sys.exit(1)
         
-    source_type = sys.argv[1]
-    input_filepath = sys.argv[2]
+    input_filepath = sys.argv[1]
     input_filename = input_filepath.split('/')[-1]
     input_filename = input_filename.split('.')[0]
-    output_filename = f'{input_filename}_AdGuard.txt'
+    output_filename = f'{input_filename}_AdGuard.conf'
     output_filepath = f'./{output_filename}'
     
     convert_list(input_filepath, output_filepath)

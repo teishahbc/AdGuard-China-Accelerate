@@ -27,7 +27,7 @@ jobs:
 
       - name: Merge Configuration
         run: |
-          cat $(find . -type f -name "*.txt" ! -name "configuration.txt" ! -name "trusted_upstream.txt") > configuration.txt
+          cat $(find . -type f -name "*.conf") > configuration.txt
           [ -f trusted_upstream.txt ] && cat trusted_upstream.txt >> configuration.txt
 
       - name: Commit & Push Changes
