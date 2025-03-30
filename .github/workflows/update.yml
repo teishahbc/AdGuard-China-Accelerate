@@ -19,7 +19,11 @@ jobs:
           wget -O apple.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/apple.china.conf
 
       - name: Convert Dnsmasq to AdGuard format
-        run: python3 converter.py
+        run: |
+          set -e
+          for file in $(find . -type f -name "*.conf"); do
+            python3 converter.py "$file"
+          done
 
       - name: Merge Configuration
         run: |

@@ -16,7 +16,7 @@ def convert_list(input_filepath, output_filepath):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python domain_list_converter.py <gfw|china> <input_file>")
+        print("Usage: python converter.py <input_file>")
         sys.exit(1)
         
     source_type = sys.argv[1]
