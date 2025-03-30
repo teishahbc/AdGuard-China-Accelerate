@@ -1,0 +1,34 @@
+name: Update Configuration
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-config:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Source files
+        run: |
+          wget -O accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/accelerated-domains.china.conf
+          wget -O apple.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/apple.china.conf
+
+      - name: Convert Dnsmasq to AdGuard format
+        run: python3 converter.py
+
+      - name: Merge Configuration
+        run: |
+          cat $(find . -type f -name "*.txt" ! -name "configuration.txt" ! -name "trusted_upstream.txt") > configuration.txt
+          [ -f trusted_upstream.txt ] && cat trusted_upstream.txt >> configuration.txt
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add configuration.txt
+          git diff --cached --quiet || (git commit -m "Update configuration" && git push)
