@@ -1,0 +1,6 @@
+https://cloudflare-dns.com/dns-query
+tls://one.one.one.one
+https://doh.sb/dns-query
+tls://dot.sb
+https://dns.google/dns-query
+tls://dns.google
