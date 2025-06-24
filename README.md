@@ -7,7 +7,7 @@
 1. 在 AdGuardHome 配置中设置 `upstream_dns_file` 指向 `configuration.txt`
 2. 配置 `crontab` 定时拉取 `configuration.txt` 文件
 ```
-0 0 * * * wget -O /path/to/configuration.txt https://raw.githubusercontent.com/CreatechStudio/AdGuard-China-Accelerate/refs/heads/main/configuration.txt
+0 0 * * * wget -O /opt/AdGuardHome/configuration.txt https://raw.githubusercontent.com/teishahbc/AdGuard-China-Accelerate/refs/heads/main/configuration.txt
 ```
 
 ## 数据来源/致谢
