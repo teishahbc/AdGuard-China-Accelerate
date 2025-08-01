@@ -12318,6 +12318,7 @@
 [/anpuzx.com/]quic://dns.alidns.com
 [/anqingonline.com/]quic://dns.alidns.com
 [/anqingwt.com/]quic://dns.alidns.com
+[/anqingzhiyun.com/]quic://dns.alidns.com
 [/anqn.com/]quic://dns.alidns.com
 [/anqu.com/]quic://dns.alidns.com
 [/anquan.info/]quic://dns.alidns.com
@@ -18856,6 +18857,7 @@
 [/c360dn.com/]quic://dns.alidns.com
 [/c3acg.com/]quic://dns.alidns.com
 [/c3crm.com/]quic://dns.alidns.com
+[/c3pool.org/]quic://dns.alidns.com
 [/c3x.me/]quic://dns.alidns.com
 [/c4006.com/]quic://dns.alidns.com
 [/c4008.com/]quic://dns.alidns.com
@@ -45416,7 +45418,6 @@
 [/haochu.com/]quic://dns.alidns.com
 [/haochuguo.com/]quic://dns.alidns.com
 [/haocw.com/]quic://dns.alidns.com
-[/haodadachina.com/]quic://dns.alidns.com
 [/haodai.com/]quic://dns.alidns.com
 [/haodanku.com/]quic://dns.alidns.com
 [/haodaquan.com/]quic://dns.alidns.com
@@ -48144,7 +48145,6 @@
 [/hljrcc.com/]quic://dns.alidns.com
 [/hljsdm.com/]quic://dns.alidns.com
 [/hljsek.com/]quic://dns.alidns.com
-[/hljsfjy.com/]quic://dns.alidns.com
 [/hljsjtzy.com/]quic://dns.alidns.com
 [/hljsph.com/]quic://dns.alidns.com
 [/hljszjxhw.com/]quic://dns.alidns.com
@@ -63533,6 +63533,7 @@
 [/lcqixing.com/]quic://dns.alidns.com
 [/lcqjsjxxx.com/]quic://dns.alidns.com
 [/lcqwdz.com/]quic://dns.alidns.com
+[/lcrc.ltd/]quic://dns.alidns.com
 [/lcrcbank.com/]quic://dns.alidns.com
 [/lcrq.net/]quic://dns.alidns.com
 [/lcsepu.com/]quic://dns.alidns.com
@@ -75721,7 +75722,6 @@
 [/otm.ink/]quic://dns.alidns.com
 [/otms.com/]quic://dns.alidns.com
 [/otoeasy.com/]quic://dns.alidns.com
-[/otokonocomplex.com/]quic://dns.alidns.com
 [/otome.me/]quic://dns.alidns.com
 [/otomedream.com/]quic://dns.alidns.com
 [/otosaas.com/]quic://dns.alidns.com
@@ -94900,6 +94900,7 @@
 [/tnfn.net/]quic://dns.alidns.com
 [/tnfno.icu/]quic://dns.alidns.com
 [/tngcjx.com/]quic://dns.alidns.com
+[/tngdigital.com.my/]quic://dns.alidns.com
 [/tnodenow.com/]quic://dns.alidns.com
 [/tnong.com/]quic://dns.alidns.com
 [/tnsou.com/]quic://dns.alidns.com
@@ -95341,6 +95342,7 @@
 [/touchjoin.com/]quic://dns.alidns.com
 [/touchjoint.com/]quic://dns.alidns.com
 [/touchmark.art/]quic://dns.alidns.com
+[/touchngo.com.my/]quic://dns.alidns.com
 [/touchpal.com/]quic://dns.alidns.com
 [/touchsh.com/]quic://dns.alidns.com
 [/touchsprite.com/]quic://dns.alidns.com
@@ -103938,7 +103940,6 @@
 [/xcmgmall.com/]quic://dns.alidns.com
 [/xcmobi.com/]quic://dns.alidns.com
 [/xcmsports.com/]quic://dns.alidns.com
-[/xcn457.com/]quic://dns.alidns.com
 [/xcnchinese.com/]quic://dns.alidns.com
 [/xcncp.com/]quic://dns.alidns.com
 [/xcnic.net/]quic://dns.alidns.com
@@ -118697,6 +118698,7 @@
 [/zyjymall.com/]quic://dns.alidns.com
 [/zyjyxx.com/]quic://dns.alidns.com
 [/zyjyyun.com/]quic://dns.alidns.com
+[/zyka.cc/]quic://dns.alidns.com
 [/zykj0668.com/]quic://dns.alidns.com
 [/zykjct.com/]quic://dns.alidns.com
 [/zykjgame.com/]quic://dns.alidns.com
