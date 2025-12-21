@@ -1802,7 +1802,6 @@
 [/148com.com/]quic://dns.alidns.com
 [/148la.com/]quic://dns.alidns.com
 [/14944.net/]quic://dns.alidns.com
-[/1495c8.com/]quic://dns.alidns.com
 [/14hj.com/]quic://dns.alidns.com
 [/14play.net/]quic://dns.alidns.com
 [/14xd.com/]quic://dns.alidns.com
@@ -6824,7 +6823,6 @@
 [/62669.com/]quic://dns.alidns.com
 [/626x.com/]quic://dns.alidns.com
 [/628.com/]quic://dns.alidns.com
-[/628536nyv.com/]quic://dns.alidns.com
 [/62923.vip/]quic://dns.alidns.com
 [/629973.com/]quic://dns.alidns.com
 [/62dns.com/]quic://dns.alidns.com
@@ -11993,7 +11991,6 @@
 [/antvr.com/]quic://dns.alidns.com
 [/antwork.link/]quic://dns.alidns.com
 [/antzk.com/]quic://dns.alidns.com
-[/anviettek.com/]quic://dns.alidns.com
 [/anw.red/]quic://dns.alidns.com
 [/anweilan.com/]quic://dns.alidns.com
 [/anweishi.com/]quic://dns.alidns.com
@@ -53715,6 +53712,7 @@
 [/jamalube.net/]quic://dns.alidns.com
 [/jamcz.com/]quic://dns.alidns.com
 [/jamidol.com/]quic://dns.alidns.com
+[/jamms.org/]quic://dns.alidns.com
 [/jammyfm.com/]quic://dns.alidns.com
 [/jampotgames.com/]quic://dns.alidns.com
 [/janbao.net/]quic://dns.alidns.com
@@ -56921,7 +56919,6 @@
 [/js96008.com/]quic://dns.alidns.com
 [/js96777.com/]quic://dns.alidns.com
 [/jsadkg.com/]quic://dns.alidns.com
-[/jsadt.com/]quic://dns.alidns.com
 [/jsaeit.com/]quic://dns.alidns.com
 [/jsaes.com/]quic://dns.alidns.com
 [/jsafc.net/]quic://dns.alidns.com
