@@ -53105,7 +53105,6 @@
 [/ithuangw.com/]quic://dns.alidns.com
 [/itiankong.com/]quic://dns.alidns.com
 [/itiankong.net/]quic://dns.alidns.com
-[/itianliao.com/]quic://dns.alidns.com
 [/itiexue.net/]quic://dns.alidns.com
 [/itiger.com/]quic://dns.alidns.com
 [/itigergrowth.com/]quic://dns.alidns.com
@@ -55363,7 +55362,6 @@
 [/jinr.com/]quic://dns.alidns.com
 [/jinridiaoyu.com/]quic://dns.alidns.com
 [/jinriguanzhu.cc/]quic://dns.alidns.com
-[/jinriningxiang.com/]quic://dns.alidns.com
 [/jinrirm.com/]quic://dns.alidns.com
 [/jinrishici.com/]quic://dns.alidns.com
 [/jinritemai-inc.com/]quic://dns.alidns.com
@@ -56811,6 +56809,7 @@
 [/jsguolv.com/]quic://dns.alidns.com
 [/jsgwyw.org/]quic://dns.alidns.com
 [/jsgx.net/]quic://dns.alidns.com
+[/jsgxca.com/]quic://dns.alidns.com
 [/jsgxgf.com/]quic://dns.alidns.com
 [/jsgyrcb.com/]quic://dns.alidns.com
 [/jsgzgz.com/]quic://dns.alidns.com
@@ -58413,6 +58412,7 @@
 [/kaiyun360.com/]quic://dns.alidns.com
 [/kaiyuncare.com/]quic://dns.alidns.com
 [/kaiyunwu.net/]quic://dns.alidns.com
+[/kaizencpa.com/]quic://dns.alidns.com
 [/kaizhan.com/]quic://dns.alidns.com
 [/kajicam.com/]quic://dns.alidns.com
 [/kaka.com/]quic://dns.alidns.com
@@ -109795,6 +109795,7 @@
 [/zggd.city/]quic://dns.alidns.com
 [/zgggws.com/]quic://dns.alidns.com
 [/zggjgy.com/]quic://dns.alidns.com
+[/zggjj.com/]quic://dns.alidns.com
 [/zggjsmc.com/]quic://dns.alidns.com
 [/zggldgj.com/]quic://dns.alidns.com
 [/zgglkx.com/]quic://dns.alidns.com
@@ -113501,6 +113502,7 @@
 [/zwoasi.com/]quic://dns.alidns.com
 [/zwoptical.com/]quic://dns.alidns.com
 [/zwoptics.com/]quic://dns.alidns.com
+[/zwpyyds.com/]quic://dns.alidns.com
 [/zwslshy.com/]quic://dns.alidns.com
 [/zwsmds.com/]quic://dns.alidns.com
 [/zwtianshangm.com/]quic://dns.alidns.com
