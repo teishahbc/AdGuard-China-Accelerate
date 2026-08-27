@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]quic://dns.alidns.com
 [/gsp5-cn.ls.apple.com/]quic://dns.alidns.com
 [/gsp85-cn-ssl.ls.apple.com/]quic://dns.alidns.com
+[/gspe11-2-cn-ssl.ls.apple.com/]quic://dns.alidns.com
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]quic://dns.alidns.com
 [/gspe19-2-cn-ssl.ls.apple.com/]quic://dns.alidns.com
 [/gspe19-cn-ssl.ls.apple.com/]quic://dns.alidns.com
@@ -9475,6 +9476,7 @@
 [/988848a9d1013.beer/]quic://dns.alidns.com
 [/988878.com/]quic://dns.alidns.com
 [/98892.com/]quic://dns.alidns.com
+[/988dns.com/]quic://dns.alidns.com
 [/988sl.com/]quic://dns.alidns.com
 [/9891.com/]quic://dns.alidns.com
 [/9891760ee2389285.com/]quic://dns.alidns.com
@@ -9963,6 +9965,7 @@
 [/aaawz.cc/]quic://dns.alidns.com
 [/aaayu.com/]quic://dns.alidns.com
 [/aaayun.com/]quic://dns.alidns.com
+[/aabb.com/]quic://dns.alidns.com
 [/aabqn.com/]quic://dns.alidns.com
 [/aac3442de07869c0.com/]quic://dns.alidns.com
 [/aacoptics.com/]quic://dns.alidns.com
@@ -12684,6 +12687,7 @@
 [/api-m.com/]quic://dns.alidns.com
 [/api-vod-qcloud.com/]quic://dns.alidns.com
 [/api.anythinktech.com/]quic://dns.alidns.com
+[/api.blipsandchitz.me/]quic://dns.alidns.com
 [/api.cnno1.uds.lenovo.com/]quic://dns.alidns.com
 [/api.djiservice.org/]quic://dns.alidns.com
 [/api.euwe1.uds.lenovo.com/]quic://dns.alidns.com
@@ -29704,6 +29708,7 @@
 [/dnake-park.com/]quic://dns.alidns.com
 [/dnbbn.com/]quic://dns.alidns.com
 [/dnbbs.com/]quic://dns.alidns.com
+[/dnbiz.com/]quic://dns.alidns.com
 [/dncable.com/]quic://dns.alidns.com
 [/dndc.cloud/]quic://dns.alidns.com
 [/dnettvbox.com/]quic://dns.alidns.com
@@ -63679,6 +63684,7 @@
 [/madajiefood.com/]quic://dns.alidns.com
 [/madaomall.com/]quic://dns.alidns.com
 [/madboxi.com/]quic://dns.alidns.com
+[/made-in-china.com/]quic://dns.alidns.com
 [/madefuns.com/]quic://dns.alidns.com
 [/madeinchinastone.com/]quic://dns.alidns.com
 [/madewei.com/]quic://dns.alidns.com
@@ -65408,6 +65414,7 @@
 [/microyan.com/]quic://dns.alidns.com
 [/microzl.com/]quic://dns.alidns.com
 [/microzuji.com/]quic://dns.alidns.com
+[/micstatic.com/]quic://dns.alidns.com
 [/mictormedical.com/]quic://dns.alidns.com
 [/micu.hk/]quic://dns.alidns.com
 [/micun.com/]quic://dns.alidns.com
@@ -70909,6 +70916,7 @@
 [/openatom.club/]quic://dns.alidns.com
 [/openbayes.com/]quic://dns.alidns.com
 [/openbcs.com/]quic://dns.alidns.com
+[/openbitfun.com/]quic://dns.alidns.com
 [/opencas.org/]quic://dns.alidns.com
 [/opencitybrain.org/]quic://dns.alidns.com
 [/opencloudgpt.online/]quic://dns.alidns.com
