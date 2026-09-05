@@ -2850,6 +2850,7 @@
 [/1zhe.com/]quic://dns.alidns.com
 [/1zhengji.com/]quic://dns.alidns.com
 [/1zhixue.com/]quic://dns.alidns.com
+[/1zidc.com/]quic://dns.alidns.com
 [/1zj.com/]quic://dns.alidns.com
 [/1zjob.com/]quic://dns.alidns.com
 [/1zu.com/]quic://dns.alidns.com
@@ -16806,6 +16807,7 @@
 [/bktsj.com/]quic://dns.alidns.com
 [/bkvps.com/]quic://dns.alidns.com
 [/bkweek.com/]quic://dns.alidns.com
+[/bkwsq.com/]quic://dns.alidns.com
 [/bkzzy.com/]quic://dns.alidns.com
 [/bl.com/]quic://dns.alidns.com
 [/bl0757.com/]quic://dns.alidns.com
@@ -18700,6 +18702,7 @@
 [/cangzhouhd.com/]quic://dns.alidns.com
 [/canhighcenter.com/]quic://dns.alidns.com
 [/canhot.net/]quic://dns.alidns.com
+[/canhui.xyz/]quic://dns.alidns.com
 [/caniculab.com/]quic://dns.alidns.com
 [/canidc.com/]quic://dns.alidns.com
 [/canjio.com/]quic://dns.alidns.com
@@ -76113,6 +76116,7 @@
 [/redisfans.com/]quic://dns.alidns.com
 [/redmagic.com/]quic://dns.alidns.com
 [/redmart.com/]quic://dns.alidns.com
+[/redmid.com/]quic://dns.alidns.com
 [/redmou.com/]quic://dns.alidns.com
 [/rednetdns.com/]quic://dns.alidns.com
 [/rednote.com/]quic://dns.alidns.com
@@ -92559,6 +92563,7 @@
 [/vxiaocheng.com/]quic://dns.alidns.com
 [/vxinyou.com/]quic://dns.alidns.com
 [/vxixi.com/]quic://dns.alidns.com
+[/vxni.ink/]quic://dns.alidns.com
 [/vxo7tu.com/]quic://dns.alidns.com
 [/vxocok3197.vip/]quic://dns.alidns.com
 [/vxsnk.com/]quic://dns.alidns.com
